@@ -51,10 +51,10 @@ When I’m not in front of a terminal, you’ll find me:
 ### 🌍 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/santiago-echeverri-duque-001aba200/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/SantiagoEche0799" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:youremail@example.com">
@@ -63,12 +63,3 @@ When I’m not in front of a terminal, you’ll find me:
 </p>
 
 ---
-
-### 📈 GitHub Stats  
-
-<div align="center">
-
-![Santiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
-
-</div>
