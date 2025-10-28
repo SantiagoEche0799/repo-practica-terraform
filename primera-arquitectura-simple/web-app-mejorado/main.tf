@@ -283,7 +283,7 @@ resource "aws_db_instance" "db_demo_instance" {
   engine                      = "postgres"
   engine_version              = "12"
   instance_class              = "db.t3.micro"
-  db_name                        = "my_db_postgres"
+  db_name                     = "my_db_postgres"
   username                    = var.db_username
   password                    = var.db_password
   skip_final_snapshot         = true
