@@ -1,0 +1,5 @@
+bucket_prefix = "devops-directive-web-app-data"
+domain = "devopsdemodeployed.com"
+db_name = "my_db_postgres"
+db_user = "demo_db_postgres"
+db_pass = "santiago12"

@@ -1,7 +1,7 @@
 terraform {
     backend "s3" {
         bucket         = "devops-directive-remote-tf-state"
-        key            = "primera-arquitectura-simple/web-app-nueva-version/terraform.tfstate"
+        key            = "primera-arquitectura-simple/web-app-lastVersion/terraform.tfstate"
         region         = "us-east-1"
         dynamodb_table = "terraform-state-locking"
         encrypt        = true
@@ -10,7 +10,7 @@ terraform {
     required_providers {
         aws = {
         source  = "hashicorp/aws"
-        version = "~>5.0"
+        version = "~> 5.0"
         }
     }
 }
